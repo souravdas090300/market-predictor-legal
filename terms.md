@@ -5,7 +5,7 @@ Last updated: [today's date]
 By using Market Predictor, you agree to these terms.
 
 ## Use of Service
-Market Predictor provides market predictions for informational purposes only. Not financial advice.
+Market Predictor provides market predictions for informational and educational purposes only. Not financial advice.
 
 ## User Accounts
 You are responsible for maintaining your account security.
